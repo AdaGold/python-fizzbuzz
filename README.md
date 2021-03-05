@@ -2,6 +2,33 @@
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
+## Setup
+
+1.  Create a virtual environment
+
+```bash
+$ python3 -m venv venv
+```
+
+2.  Activate the environment
+
+```bash
+$ source venv/bin/activate
+```
+
+3.  Install the dependencies
+
+
+```bash
+pip install -r requirements.txt
+```
+
+You can now run the tests with the command
+
+```bash
+$ pytest
+```
+
 ## FizzBuzz Function
 
 `fizzbuzz` is a function which returns the string representation of numbers from 1 to n.
