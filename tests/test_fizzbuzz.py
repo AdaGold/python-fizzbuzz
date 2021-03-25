@@ -1,5 +1,5 @@
 import pytest
-from lib.fizzbuzz import fizzbuzz
+from interviews.fizzbuzz import fizzbuzz
 
 def test_works_with_1():
     # Arrange
