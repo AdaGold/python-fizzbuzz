@@ -1,2 +1,2 @@
 packaging==20.8
-pytest==6.2.1
+pytest==7.1.1
