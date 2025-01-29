@@ -1,4 +1,3 @@
-import pytest
 from interviews.fizzbuzz import fizzbuzz
 
 def test_works_with_1():
